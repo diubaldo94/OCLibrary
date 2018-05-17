@@ -1,0 +1,11 @@
+syntax: glob
+bin/**
+packages/**
+obj/**
+publish_svc/**
+*.user
+*.suo
+*.orig
+**/packages/*
+**/bin/*
+**/obj/*
