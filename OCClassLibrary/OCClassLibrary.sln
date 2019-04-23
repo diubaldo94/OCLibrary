@@ -1,22 +1,28 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCClassLibrary", "OCClassLibrary\OCClassLibrary.csproj", "{71298AC5-3E0D-4365-BDBF-3F17CF69190E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GatewayForWebApi", "OCGatewayForWebApi\GatewayForWebApi.csproj", "{A3DA8973-10B8-4095-AC5D-325795B8FFFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Dev|Any CPU = Dev|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{71298AC5-3E0D-4365-BDBF-3F17CF69190E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{71298AC5-3E0D-4365-BDBF-3F17CF69190E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{71298AC5-3E0D-4365-BDBF-3F17CF69190E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{71298AC5-3E0D-4365-BDBF-3F17CF69190E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3DA8973-10B8-4095-AC5D-325795B8FFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DA8973-10B8-4095-AC5D-325795B8FFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DA8973-10B8-4095-AC5D-325795B8FFFF}.Dev|Any CPU.ActiveCfg = Dev|Any CPU
+		{A3DA8973-10B8-4095-AC5D-325795B8FFFF}.Dev|Any CPU.Build.0 = Dev|Any CPU
+		{A3DA8973-10B8-4095-AC5D-325795B8FFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DA8973-10B8-4095-AC5D-325795B8FFFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01E3BED8-7E37-4CC7-9BD2-DD90588F62E6}
 	EndGlobalSection
 EndGlobal

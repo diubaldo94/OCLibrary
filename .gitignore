@@ -9,3 +9,8 @@ publish_svc/**
 **/packages/*
 **/bin/*
 **/obj/*
+OCClassLibrary/.vs/OCClassLibrary/v15/Server/sqlite3/storage.ide-wal
+OCClassLibrary/.vs/OCClassLibrary/v15/Server/sqlite3/storage.ide-shm
+OCClassLibrary/.vs/OCClassLibrary/v15/Server/sqlite3/storage.ide
+OCClassLibrary/.vs/OCClassLibrary/v15/Server/sqlite3/db.lock
+OCClassLibrary/.vs/OCClassLibrary/DesignTimeBuild/.dtbcache
